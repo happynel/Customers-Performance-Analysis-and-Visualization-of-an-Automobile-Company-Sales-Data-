@@ -7,3 +7,17 @@ This Data  Science Project aims to provide  insights into the sales performance 
 # About the Company:
 The Automobile Company operates in different countries and  sells a wide variety of product categories , including bikes, accessories and clothings.  
 
+## DATA PRE-PROCESSING
+### Data Loading
+```Python
+##  importing all the necessary python packages
+
+
+# solution 
+
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt
+
+print("The packages have been successfully imported")
+```
