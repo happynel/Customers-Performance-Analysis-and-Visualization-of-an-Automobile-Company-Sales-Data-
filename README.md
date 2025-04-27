@@ -93,7 +93,7 @@ Top_10_Customers = Customer_Total_Profit.sort_values("Profit", ascending = False
 
 Top_10_Customers
 ```
-![Data Science Project2_Sorting](https://github.com/user-attachments/assets/69c0d673-ef07-4805-9dfa-5b8092c909c9)
+![Data Science Project2_Result](https://github.com/user-attachments/assets/c84d4a24-51a0-4c52-8876-62ecac108c4b)
 
 ## VISUALIZATION
 ```Python
